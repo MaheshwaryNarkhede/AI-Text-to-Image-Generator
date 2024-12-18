@@ -1,0 +1,10 @@
+streamlit
+openai
+pillow
+requests
+diffusers
+transformers
+torch
+torchvision
+torchaudio
+streamlit-lottie
